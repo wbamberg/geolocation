@@ -1,5 +1,3 @@
-This is the geolocation add-on.  It contains:
-
-* A program (lib/main.js).
-* A few tests.
-* Some meager documentation.
+This is the geolocation add-on.  It contains a single module
+"geolocation", which exports an API to fetch the user's location
+if they agree to share it.
